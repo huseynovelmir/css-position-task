@@ -28,7 +28,7 @@ Basic Html and css ready.We require you to solve the following tasks.Remember to
 
  1. First block should be adjusted away from the top 50px and from the left 50px its position. 
 
- ![Task-1.img](./images/task-2.png)
+ ![Task-2.img](./images/task-2.png)
 
 
  
@@ -40,4 +40,4 @@ Basic Html and css ready.We require you to solve the following tasks.Remember to
  2. First block should be adjusted away from the top 50px and from the left 50px its position. 
  3. The block should stay fixed when the page is scrolled. 
 
- ![Task-1.img](./images/task-3.png)
+ ![Task-3.img](./images/task-3.png)
